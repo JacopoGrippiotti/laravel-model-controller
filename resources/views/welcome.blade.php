@@ -2,6 +2,7 @@
 
 @section('title', 'Welcome')
 
+
 @section('main-content')
     <h1>
         Welcome
@@ -15,5 +16,13 @@
             </div>
         </div>
     </div>
+@endsection
+
+@section('sto cazzo')
+   
+  <div>
+    questa è un'altra sezione
+  </div> 
+
 @endsection
 
